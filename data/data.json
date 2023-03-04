@@ -1,0 +1,467 @@
+{
+  "banner_info": [
+    {
+      "id": 1,
+      "header_text": "Photography is poetry and beautiful untold stories",
+      "sub_text": "Flip through more than 10,000 vintage shots, old photograghs, historic images and captures seamlessly in one place. Register to get top access.",
+      "mobile_images": [
+        {
+          "id": 1,
+          "url": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FRectangle%20241.png?alt=media&token=d6c6ff7a-2960-4b6b-8fb8-228dd6f4471e"
+        },
+        {
+          "id": 2,
+          "url": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FRectangle%20240.png?alt=media&token=2d2109d7-a4f8-4091-b81f-7ea8965cf90b"
+        },
+        
+        {
+          "id": 3,
+          "url": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FRectangle%20242.png?alt=media&token=9482bc18-546c-4e19-a37b-9576f2df05bb"
+        }
+      ],
+      "web_images": [
+        {
+          "id": 1,
+          "url": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FRectangle%20230.png?alt=media&token=ebebb802-24a4-4ce6-9253-09479e22662c"
+        },
+        {
+          "id": 2,
+          "url": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FRectangle%20231.png?alt=media&token=685ef088-8981-40b5-90f2-c055fa7d9e21"
+        },
+        {
+          "id": 3,
+          "url": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FRectangle%20232.png?alt=media&token=61b969c6-b03d-44d1-b207-8ceb0faf33bd"
+        },
+        {
+          "id": 4,
+          "url": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FRectangle%20233.png?alt=media&token=b3e721f3-cff1-48f6-8dd1-0fe921c49c66"
+        }
+      ]
+    }
+  ],
+  "featured": [
+    {
+      "id": 1,
+      "name" : "The Boolean Egyptian",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor pur",
+      "web_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FRectangle%20299.png?alt=media&token=a0485828-6389-4655-8815-485236244fc0",
+      "mobile_image" : "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FRectangle%20252.png?alt=media&token=acd7c6f8-0f8a-4127-b178-d1e878f023ca",
+      "contributors": [
+        {
+          "id": 1,
+          "avatar":"https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FEllipse%2014.png?alt=media&token=6ccd8f17-d5af-498e-a9d3-50b7130b9d72"
+        },
+        {
+          "id": 2,
+          "avatar":"https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FEllipse%2015.png?alt=media&token=fbede520-46e0-4fab-95fe-30d1e79e9211"
+        },
+        {
+          "id": 3,
+          "avatar":"https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FEllipse%2016.png?alt=media&token=d00ea880-4920-4288-b44a-c992352dcfd2"
+        },
+        {
+          "id": 4,
+          "avatar":"https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FEllipse%2017.png?alt=media&token=af477661-c74f-4a6c-98b6-796474625378"
+        },
+        {
+          "id": 5,
+          "avatar":"https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FEllipse%2018.png?alt=media&token=b7372da1-303c-4639-a603-36f72a1922cd"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name" : "Are We There Yet?",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor pur",
+      "web_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FRectangle%20300.png?alt=media&token=f0b3291f-fd32-4acc-939a-c133ee958274",
+      "mobile_image" : "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FRectangle%20251.png?alt=media&token=90c860b5-b487-4428-877d-410eb57674ab",
+      "contributors": [
+        {
+          "id": 1,
+          "avatar":"https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FEllipse%2014.png?alt=media&token=6ccd8f17-d5af-498e-a9d3-50b7130b9d72"
+        },
+        {
+          "id": 2,
+          "avatar":"https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FEllipse%2015.png?alt=media&token=fbede520-46e0-4fab-95fe-30d1e79e9211"
+        },
+        {
+          "id": 3,
+          "avatar":"https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FEllipse%2016.png?alt=media&token=d00ea880-4920-4288-b44a-c992352dcfd2"
+        },
+        {
+          "id": 4,
+          "avatar":"https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FEllipse%2017.png?alt=media&token=af477661-c74f-4a6c-98b6-796474625378"
+        },
+        {
+          "id": 5,
+          "avatar":"https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FEllipse%2018.png?alt=media&token=b7372da1-303c-4639-a603-36f72a1922cd"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name" : "Oloibiri 1997",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor pur",
+      "web_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FRectangle%20298.png?alt=media&token=69335b37-7e37-43ef-ba49-0b33ca3c7814",
+      "mobile_image" : "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FRectangle%20250.png?alt=media&token=f6d77f45-376c-4bb0-aaf8-b5136a64f4e4",
+      "contributors": [
+        {
+          "id": 1,
+          "avatar":"https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FEllipse%2014.png?alt=media&token=6ccd8f17-d5af-498e-a9d3-50b7130b9d72"
+        },
+        {
+          "id": 2,
+          "avatar":"https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FEllipse%2015.png?alt=media&token=fbede520-46e0-4fab-95fe-30d1e79e9211"
+        },
+        {
+          "id": 3,
+          "avatar":"https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FEllipse%2016.png?alt=media&token=d00ea880-4920-4288-b44a-c992352dcfd2"
+        },
+        {
+          "id": 4,
+          "avatar":"https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FEllipse%2017.png?alt=media&token=af477661-c74f-4a6c-98b6-796474625378"
+        },
+        {
+          "id": 5,
+          "avatar":"https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FEllipse%2018.png?alt=media&token=b7372da1-303c-4639-a603-36f72a1922cd"
+        }
+      ]
+    }
+  ],
+  "upcoming": [
+    {
+      "id": 1,
+      "name": "MONALISA REDEFINED IN STYLE",
+      "starts": "08:00 GTS . Monday",
+      "web_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FRectangle%2091.png?alt=media&token=bd27c744-340c-4fb0-b7d2-0e6061a61f48",
+      "mobile_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FRectangle%20239.png?alt=media&token=60cc029e-445f-4bd4-bbac-ee5015779f3d",
+      "bid_time": "6hr : 40mins: 15s",
+      "tag": "monalisa",
+      "bids": [
+        {
+          "id":1,
+          "name": "Ella Flynn",
+          "bid": "Tight bid"
+        },
+        {
+          "id":2,
+          "name": "Uncle Luca",
+          "bid": "Instant bid"
+        },
+        {
+          "id":3,
+          "name": "Opeyemi Tiwalope",
+          "bid": "$45.00"
+        },
+        {
+          "id":4,
+          "name": "Celestina Quinn",
+          "bid": "Gm frens! ready to bidddd"
+        },
+        {
+          "id":5,
+          "name": "Samy Ellen",
+          "bid": "i love this. $20.00 for me"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "PHILOMENA 22",
+      "starts": "02:00 GTS . Thrusday",
+      "web_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FRectangle%20247.png?alt=media&token=d56b32a9-e280-45df-8361-96b899f804a9",
+      "mobile_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FRectangle%20247b.png?alt=media&token=5b9a33bc-088c-4f40-8c90-94a3dc2fb06b",
+      "bid_time": "8hr : 40mins: 20s",
+      "tag": "philo",
+      "bids": [
+        {
+          "id":1,
+          "name": "Ella Flynn",
+          "bid": "Tight bid"
+        },
+        {
+          "id":2,
+          "name": "Uncle Luca",
+          "bid": "Instant bid"
+        },
+        {
+          "id":3,
+          "name": "Opeyemi Tiwalope",
+          "bid": "$45.00"
+        },
+        {
+          "id":4,
+          "name": "Celestina Quinn",
+          "bid": "Gm frens! ready to bidddd"
+        },
+        {
+          "id":5,
+          "name": "Samy Ellen",
+          "bid": "i love this. $20.00 for me"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Love on a Stick",
+      "starts": "09:30 GTS . Friday",
+      "web_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FRectangle%20245.png?alt=media&token=4a776e94-e698-4d5e-b9b4-16e7290a98f9",
+      "mobile_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2FRectangle%20245b.png?alt=media&token=5fafac39-c82c-4479-b2b5-64763e169774",
+      "bid_time": "10hr : 20mins: 15s",
+      "tag": "love",
+      "bids": [
+        {
+          "id":1,
+          "name": "Ella Flynn",
+          "bid": "Tight bid"
+        },
+        {
+          "id":2,
+          "name": "Uncle Luca",
+          "bid": "Instant bid"
+        },
+        {
+          "id":3,
+          "name": "Opeyemi Tiwalope",
+          "bid": "$45.00"
+        },
+        {
+          "id":4,
+          "name": "Celestina Quinn",
+          "bid": "Gm frens! ready to bidddd"
+        },
+        {
+          "id":5,
+          "name": "Samy Ellen",
+          "bid": "i love this. $20.00 for me"
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "PHILOMENA ‘22",
+      "category": "Editorials",
+      "web_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fprod1web.png?alt=media&token=4c2eae11-cbac-4054-a1f9-8f085e6ed6d7",
+      "mobile_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fprod1mob.png?alt=media&token=d50f5e85-6a16-487e-8e8e-79cf0458c238",
+      "price": "1550",
+      "creator": "Ali Dawa",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor pur",
+      "listings":  "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor pur",
+      "status" : "In stock",
+      "created_in": "2019"
+    },  
+    {
+      "id": 2,
+      "name": "BOOLEAN EGYPTIAN",
+      "category": "Art & Museum",
+      "web_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fprod2web.png?alt=media&token=a364092b-8daa-45f0-80f2-9e8289fd7c4e",
+      "mobile_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fprod2mob.png?alt=media&token=cdc93dbd-f5e1-4e04-beda-b97065b27eb8",
+      "price": "995.90",
+      "creator": "Hailey S",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor pur",
+      "listings":  "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor pur",
+      "status" : "In stock",
+      "created_in": "2020"
+    },
+    {
+      "id": 3,
+      "name": "BLANC",
+      "category": "Fashion",
+      "web_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fprod3web.png?alt=media&token=c90a9338-692c-4f42-b032-b81535e3d2fe",
+      "mobile_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fprod3mob.png?alt=media&token=b33862fb-d8f0-4afa-8a21-ec2a324aed54",
+      "price": "1000",
+      "creator": "Tunde OJS",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor pur",
+      "listings":  "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor pur",
+      "status" : "In stock",
+      "created_in": "2023"
+    },
+    {
+      "id": 4,
+      "name": "ELLIPSIA",
+      "category": "Optics",
+      "web_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fprod4web.png?alt=media&token=6ac5bd33-d42d-4599-b6a8-2405c1f1060d",
+      "mobile_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fprod4mob.png?alt=media&token=948610b8-9f1d-4647-81fd-ae46387c2b12",
+      "price": "850",
+      "creator": "Ali Dawa",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor pur",
+      "listings":  "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor pur",
+      "status" : "In stock",
+      "created_in": "2006"
+    },
+    {
+      "id": 5,
+      "name": "THE LAWMAKERS",
+      "category": "Art & Museum",
+      "web_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fprod5web.png?alt=media&token=a100ddcb-4abf-4190-a9e5-8b4b65c557f7",
+      "mobile_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fprod5mob.png?alt=media&token=8b0fc66b-2033-457e-9952-1efd0ff41f23",
+      "price": "1200",
+      "creator": "Simon Peter",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor pur",
+      "listings":  "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor pur",
+      "status" : "In stock",
+      "created_in": "2001"
+    },
+    {
+      "id": 6,
+      "name": "VEIL",
+      "category": "Nature",
+      "web_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fprod6web.png?alt=media&token=6f632749-b6b5-4987-b6b7-2ea5368bef03",
+      "mobile_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fprod6mob.png?alt=media&token=207d3420-47f4-45c4-b283-1b167cb17ede",
+      "price": "900",
+      "creator": "David Herbert",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor pur",
+      "listings":  "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor pur",
+      "status" : "In stock",
+      "created_in": "2010"
+    },
+    {
+      "id": 7,
+      "name": "ALTERNATING",
+      "category": "Optics",
+      "web_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fprod7web.png?alt=media&token=5d65d6bd-d540-474b-a44f-dfcf940ee78e",
+      "mobile_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fprod7mob.png?alt=media&token=c92cbb04-ae6c-4846-ae6e-67d61cc18595",
+      "price": "980.9",
+      "creator": "David Herbert",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor pur",
+      "listings":  "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor pur",
+      "status" : "In stock",
+      "created_in": "2021"
+    },
+    {
+      "id": 8,
+      "name": "ROSEMARY ‘22",
+      "category": "Editorials",
+      "web_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fprod8web.png?alt=media&token=7513e861-07d4-472c-b909-9988131908c9",
+      "mobile_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fprod8mob.png?alt=media&token=6af6f397-0ce1-47f8-becd-a35b4de3c093",
+      "price": "1800",
+      "creator": "Ali Dawa",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor pur",
+      "listings":  "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor pur",
+      "status" : "In stock",
+      "created_in": "2002"
+    },
+    {
+      "id": 9,
+      "name": "BEVERLY",
+      "category": "Nature",
+      "web_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fprod9web.png?alt=media&token=53f03af4-5bec-4547-8a84-737f32784b90",
+      "mobile_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fprod9mob.png?alt=media&token=9f480ec5-469f-40fa-ae8d-478d55ea7cb6",
+      "price": "1300",
+      "creator": "David Herbert",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor pur",
+      "listings":  "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor pur",
+      "status" : "In stock",
+      "created_in": "2020"
+    },
+    {
+      "id": 10,
+      "name": "ESCAPE",
+      "category": "Fashion",
+      "web_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fprod10web.png?alt=media&token=373dd807-d74c-49ca-86d6-25e911a4188c",
+      "mobile_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fprod10mob.png?alt=media&token=038a3a6c-5fcd-45f0-92a1-f39a33a6829e",
+      "price": "2000",
+      "creator": "Daniel F.M",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor pur",
+      "listings":  "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor pur",
+      "status" : "In stock",
+      "created_in": "2021"
+    },
+    {
+      "id": 11,
+      "name": "EGUAVOEN",
+      "category": "Nature",
+      "web_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fprod11web.png?alt=media&token=72c47992-bd83-45f4-ad38-cc0706b7dab3",
+      "mobile_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fprod11mob.png?alt=media&token=e75e0298-becb-452a-9402-17b3d2b83a5f",
+      "price": "675.8",
+      "creator": "Clearamane",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor pur",
+      "listings":  "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor pur",
+      "status" : "In stock",
+      "created_in": "2022"
+    },
+    {
+      "id": 12,
+      "name": "WARPED ‘99",
+      "category": "Optics",
+      "web_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fprod12web.png?alt=media&token=0199c22d-7d6b-4f4e-8747-98a57c3374de",
+      "mobile_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fprod12mob.png?alt=media&token=2de24945-97a1-4d90-98d3-55afd7780b35",
+      "price": "875",
+      "creator": "Clearamane",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor pur",
+      "listings":  "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor pur",
+      "status" : "In stock",
+      "created_in": "2021"
+    }
+  ],
+  "top_bids":[
+    {
+      "id":1,
+      "name": "Out of the box",
+      "creator": "Dan Murray",
+      "date": "12/08/22",
+      "highest": "0.57 ETH",
+      "current": "0.987 ETH",
+      "web_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fact1_web.png?alt=media&token=551bbfbc-9367-483f-a3e3-f8b3c0687411",
+      "mobile_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fact1_mob.png?alt=media&token=c609a4ad-99c7-47a4-8ff4-2003653e607f"
+    },
+    {
+      "id":2,
+      "name": "Falling apart",
+      "creator": "Jacob Banks",
+      "date": "12/08/22",
+      "highest": "0.34 ETH",
+      "current": "0.99 ETH",
+      "web_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fact2_web.png?alt=media&token=b370fc89-812c-4037-8f7f-7a31aa77b03d",
+      "mobile_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fact2_mob.png?alt=media&token=42bbe914-4937-48cc-bf0e-5a003cf1091e"
+    }
+  ],
+  "drops": [
+    {
+      "id": 1,
+      "name": "Eyo : Eko For Show",
+      "description": "Lorem ipsum dolor sit amet consectetur. Amet odio a aenean quis vitae tempus. Sed nunc tempus aliquet lectus ut vulputate.",
+      "creator": "Aliya Minat",
+      "time": "06  hrs : 45 min : 22 s",
+      "web_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fdrop1_web.png?alt=media&token=665a4fd6-dd87-4238-802d-69c21876a93c",
+      "mobile_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fdrop1_mob.png?alt=media&token=e3deac15-6b04-4e18-8e11-7ff89154c1a8",
+      "date": "November 21 at 11 am WAT",
+      "status": "upcoming"
+    },
+    {
+      "id": 2,
+      "name": "Ginger Suburbs",
+      "description": "Lorem ipsum dolor sit amet consectetur. Amet odio a aenean quis vitae tempus. Sed nunc tempus aliquet lectus ut vulputate.",
+      "creator": "Tina Benson",
+      "time": "06  hrs : 45 min : 22 s",
+      "web_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fdrop2_web.png?alt=media&token=0caaf03d-addd-49e9-b43a-586f849b1c81",
+      "mobile_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fdrop2_mob.png?alt=media&token=e87e2080-e9e5-4fe9-a0ef-452a3dea8018",
+      "date": "November 2 at 10 am WAT",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "name": "Sink",
+      "description": "Lorem ipsum dolor sit amet consectetur. Amet odio a aenean quis vitae tempus. Sed nunc tempus aliquet lectus ut vulputate.",
+      "creator": "Simon Peter",
+      "time": "06  hrs : 45 min : 22 s",
+      "web_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fdrop3_web.png?alt=media&token=44912baa-f307-4a03-9687-6214d12a0605",
+      "mobile_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fdrop3_mob.png?alt=media&token=132a02e5-729f-45f0-ab47-a05f7e2e2c72",
+      "date": "November 31 at 11 am WAT",
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "name": "Warped ‘99",
+      "description": "Lorem ipsum dolor sit amet consectetur. Amet odio a aenean quis vitae tempus. Sed nunc tempus aliquet lectus ut vulputate.",
+      "creator": "Aliya Minat",
+      "time": "06  hrs : 45 min : 22 s",
+      "web_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fdrop4_web.png?alt=media&token=7ff43fac-c8e2-408f-ac70-2fc72467d6f1",
+      "mobile_image": "https://firebasestorage.googleapis.com/v0/b/food-cms-72035.appspot.com/o/artsy%2Fdrop4_mob.png?alt=media&token=b247c188-94ee-4699-be3f-f0a62196c324",
+      "date": "September 21 at 11 am WAT",
+      "status": "inactive"
+    }
+  ]
+}
