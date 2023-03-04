@@ -16,14 +16,13 @@ const Main = () => {
         <Image
           src={deliveryWeb}
           alt="payment confirmation"
-          className="w-[88%] lg:w-[70%] h-[500px] mx-auto mb-10"
+          className="w-[88%] lg:w-[70%] h-[450px] mx-auto mb-10"
         />
       </div>
 
       <div className="text-center font-bold p-2 text-lg lg:text-4xl md:text-2xl">
         <p className="my-4 lg:my-4">
-          Hey{" "}
-          <span className="text-[#159947]">{user?.fullname || "there"}</span>,
+          Hey <span className="text-[#159947]">{user?.fullname || "there"}</span>,
           thank you for your purchase.
         </p>
         <p className="lg:mt-8">
