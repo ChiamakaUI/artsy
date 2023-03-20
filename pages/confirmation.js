@@ -16,7 +16,7 @@ const Main = () => {
         <Image
           src={deliveryWeb}
           alt="payment confirmation"
-          className="w-[88%] lg:w-[70%] h-[450px] mx-auto mb-10"
+          className="w-[88%] lg:w-[70%] h-[450px] mx-auto mb-6"
         />
       </div>
 

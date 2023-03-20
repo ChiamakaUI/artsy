@@ -9,9 +9,11 @@ import SideMenu from "./SideMenu";
 const Navbar = () => {
   const [openMenu, setOpenMenu] = useState(false);
   const { state } = useContext(cartContext);
+  console.log(state);
   return (
     <>
       <div className="flex flex-row font-merriweather items-center justify-between p-4 lg:hidden my-3.5">
+
         <BiMenu
           className="text-3xl cursor-pointer"
           onClick={() => setOpenMenu(true)}
